@@ -1,0 +1,315 @@
+#
+# file of species names and variations?
+#
+
+# A
+Acantharian
+Acantharians
+Actinoptychus
+Actinoptychus spp.
+Akashiwo
+Akashiwo sanguinae
+Akashiwo sanguinea
+Alexandrium
+Alexandrium spp.
+Alexandrium spp. chains (single cell)
+Alexandrium pseudogonyaulax
+Alexandrium - like
+Amylax
+Asterionellopsis spp.
+Asteromphalus hepactis
+Asteromphalus spp.
+athecate brown balls
+
+#
+# B
+#
+Bacilaria spp.
+Bacillaria
+Bacteriastrum
+Bacteriastrum spp.
+Boreadinium cf
+Bryozoan Larvae
+#
+# C
+#
+Cerataulina spp.
+Ceratium
+Ceratium azicorum
+Ceratium candelabrum
+Ceratium divaricatum
+Ceratium furca
+Ceratium fusus
+Ceratium lineatum
+Ceratium macroceros
+Ceratium penatogonum
+Ceratium tripos
+Ceratium spp.
+Ceratium teres
+cf Chattonella spp.
+Chaetoceros
+Chaetoceros danicus
+Chaetoceros debilis
+Chaetoceros decipiens
+Chaetoceros lascinosis
+Chaetoceros similis
+Chaetoceros socialis
+Chaetoceros subtilis
+Chaetoceros spp.
+Chatonella spp.
+Ciliate
+Cnidarian
+coccolithophore
+Cocconeis spp.
+Cochlodinium
+Cochlodinium spp.
+Copepod
+Corethron
+Corethron spp.
+Coscinodiscus
+Coscinodiscus spp.
+Cylindrotheca closterium
+Cylindrotheca spp.
+cysts
+
+#
+# D
+#
+Dactyliosolen spp.
+Detonula
+Detonlula spp.
+Diatom, unk/Non-HAB
+Dictyocha spp.
+Dinoflagellate cysts
+Dinoflagellate, unk/Non-HAB
+Dinophysis
+Dinophysis acuminata
+Dinophysis caudata
+Dinophysis fortii
+Dinophysis mitra
+Dinophysis spp.
+Dinophysis tripos
+Ditylum
+Ditylum spp.
+
+#
+# E
+#
+Eggs
+Eucampia
+Eucampia spp.
+Euglenoid
+
+#
+# F
+#
+filamentous cyanobacteria
+foraminifera
+Fragilariopsis
+Fragilariopsis spp.
+
+#
+# G
+#
+Geratium
+Gonyaulax
+Gonyaulax spinifera
+Gonyaulax spp.
+Guinardia
+Guinardia delicatula
+Guinardia striata
+Guinardia spp.
+Gymnodinium
+Gymnodinium cf (<10 um brown)
+Gymnodinium cf (charcoal grey)
+Gymnodinium cf (colorless)
+Gymnodinium cf (lime green/yellow)
+Gymnodinium cf (large pink)
+Gymnodinium cf (pale green)
+Gymnodinium spp.
+gymnodinoid, brown oblong, apical cingulum, 50um x 25um
+Gryodinium
+Gyrodinium spp.
+Gyrodinium spp. (pink tipped)
+Gyrodinium spp. (grey green)
+
+#
+# H 
+#
+Hemiaulus
+Hemiaulus spp.
+Heterocapsa spp.
+#
+# I
+#
+
+#
+# J
+#
+
+#
+# K
+# 
+Karenia brevis
+Kofoidinium spp.
+
+# 
+# L
+#
+Larvacean
+Lauderia
+Lauderia spp.
+Leptocylindricus danicus
+Leptocylindricus spp.
+Leptocylindrus
+Licmophora spp.
+Lingulodinium
+Lingulodinium polyedra
+Lingulodinium polyedrum
+Lingulodinium spp.
+Lioloma
+Lithodesmium
+Lithodesmium spp.
+#
+# M
+#
+Melosira
+Melosira spp.
+Minuscula bipes
+Myrionecta spp.
+#
+# N
+#
+Naupulis
+Naupulii
+Navicula
+Navicula spp.
+Nematodinoium spp.
+Nitzschia spp.
+Noctiluca scintillans
+Noctiluca spp.
+
+#
+# O
+#
+oblong to spherical flagellate with brow inclusion bodies (7-15 um)
+Odontella
+Odontella spp.
+Other diatoms:
+Other dinoflagellates:
+Ovoid colorless flagellate (1 um)
+Oxyphysis spp.
+Oxytoxum spp.
+
+#
+# P
+#
+P.australis
+P.multiseries
+pale green flagellate (3 - 5 um)
+Paralia
+Paralia sulcata
+Paralria spp.
+Phaeocystis spp.
+phalacroma rotundatum
+phalachroma rotundatum
+Plagiogramma spp.
+Pleurosigma
+Pleurosigma spp.
+Planktoniella spp.
+Polychaete larvae
+Polykrikos spp.
+Proboscia
+Proboscia spp.
+Prorocentrum
+Prorocentrum cf lima
+Prorocentrum gracile
+Prorocentrum micans
+Prorocentrum reticulatum
+Prorocentrum spp.
+Protoceratium reticulatum
+Protoperidinium
+Protoperidinium conicum
+Protoperidinium depressum
+Protoperidinium divergens
+Protoperidinium excentricum
+Protoperidinium leonis
+Protoperidinium oceanicum
+Protoperidinium steinii
+Protoperidinium spp.
+Pseudo-nitzschia
+Pseudo-nitzschia spp.
+Pseudoguinardia recta
+Pseudo nitzschia delicatissima
+Pseudo-nitzschia delicatissima group:
+Pseudo-nitzschia delicatissima size class:
+Pseudo nitzschia seriata
+Pseudo-nitzschia seriata group:
+Pseudo-nitzschia seriata size class:
+Pyrocystis lunula
+Pyrophacus spp.
+#
+# Q
+#
+
+# 
+# R
+#
+Rhaphoneis spp.
+Rhizosolenia
+Rhizosolenia spp.
+
+#
+# S
+#
+Scrippsiella
+Scrippsiella spp.
+Skeletonema
+Skeletonema spp.
+Sponge spicules
+Stephanopyxis
+Stephanopyxis spp.
+Striatella spp.
+
+#
+# T
+#
+Thalssionema
+Thalssionema spp.
+Thalassionema spp.
+# this is a misspelling
+Thalssiosira
+Thalssiosira spp.
+# correct spelling
+Thalassiosira
+Thalassiosira spp.
+Thalassiothrix
+Thalassiothrix spp.
+Tintinnid
+tintinid, rotifier, nauplii, bivalve larvae; fecal pellets
+Torodinium
+Tropidoneis spp.
+#
+# U
+#
+(ulvacean) green zoospores
+#
+# V
+#
+
+#
+# W
+#
+Warnowia spp.
+#
+# X
+#
+
+#
+# Y
+# 
+
+#
+# Z
+#
+

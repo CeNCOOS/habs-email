@@ -1,0 +1,299 @@
+# A
+Acantharian 586732 # urn:Isid:marinespecies.org.taxname:586732
+Acantharian 586732
+Actinoptychus 148947
+Actinoptychus 148947
+Akashiwo 231787
+Akashiwo sanguinea 232546
+Akashiwo sanguinea 232546
+Alexandrium 109470
+Alexandrium 109470
+Alexandrium 109470
+Alexandrium pseudogonyaulax 109713
+Alexandrium 109470
+Amylax 109518
+Asterionellopsis 149138
+Spatangidium heptactis 573599
+# Asteromphalus hepactis 162258 # (accepted 573599) Spatangidium heptactis
+Asteromphalus 162254
+Athecate 13551 # Order Anthoathecata
+# B
+Bacillaria 149148 # misspelled Bacilaria
+Bacillaria 149148
+Bacteriastrum 149118
+Bacteriastrum 149118
+Boreadinium 109523
+Bryozoan 146142 # phylum bryozoa
+# C
+Cerataulina 149236
+Ceratium 109506
+Tripos azoricus 837310
+# Ceratium azicorum 109930 # (accepted 837310) Tripos azoricus
+Tripos candelabrus 841193
+# Ceratium candelabrum 109935 # (accepted 841193) Tripos candelabrus
+Ceratium divaricatum 233246
+Tripos furca 840627
+# Ceratium furca 109950 # (accepted 840627) Tripos furca
+Ceratium fusus 109951
+Tripos lineatus 837459
+# Ceratium lineatum 109963 # (accepted 837459) Tripos lineatus
+Tripos macrocerso 841260
+# Ceratium macroceros 670002 # (accepted 841260) Tripos macroceros
+Tripos pentagonus 841746
+# Ceratium penatogonum 109972 # (accepted 841746) Tripos pentagonus
+Ceratium tripos 109982
+Ceratium 109506
+Ceratium teres 109980
+Chattonella 233776
+Chaetoceros 148985
+Chaetoceros danicus 149120 # (uncertain)
+Chaetoceros debilis 961758 # (uncertain)
+Chaetoceros decipiens 149126
+Chaetoceros lascinosis 149228
+Chaetoceros similis 149127
+Chaetoceros socialis 149123
+Chaetoceros subtilis 156621
+Chaetoceros 148985
+chattonella 233776
+Ciliate 11 # phylum Ciliophora
+Cnidarian 1267 # phylum cnidaria
+Coccolithophora 235993
+# Coccolithophore # coccolithophora 235993
+Cocconeis 148989
+Cochlodinium 109474
+Cochlodinium 109474
+Copepod 1080 # copepoda
+Corethron 149109
+Corethron 149109
+Coscinodiscus 148917
+Coscinodiscus 148917
+Cylindrotheca closterium 149004
+Cylindrotheca 149003
+cysts NaN
+#
+# D
+#
+Dactylioslen 149309
+Detonula 149285
+Detonula 149285
+Diatom NaN
+Dictyocha 157258
+Dinoflagellate 146203 # 593338 Class
+Dinoflagellate 146203
+Dinophysis 109462
+Dinophysis acuminata 109603
+Dinophysis caudata 109612
+Dinophysis fortii 109624
+Phalacroma mitra 232491
+# Dinophysis mitra 109635 #(accepted 232491) Phalacroma mitra
+Dinophysis 109462
+Dinophysis tripos 109662
+Ditylum 149022
+Ditylum 149022
+#
+# E
+#
+Eggs NaN
+Eucampia 149130
+Eucampia 149130
+Euglenoid 582177 # Euglenoidea class
+#
+# F
+#
+filamentous cyanobacteria NaN
+foraminifera 1410 # Phylum
+Fragilariopsis 149313
+Fragilariopsis 149313
+#
+# G
+#
+Ceratium 109506
+# Geratium 109506 # misspelling? 109506 Alternative spelling of Ceratium
+Gonyaulax 109519
+Gonyaulax spinifera 110041
+Gonyaulax 109519
+Guinardia 149111
+Guinardia delicatula 149112 # (alternate repesentation 149114) Rhizosolenia delicatula
+Guinardia striata 967041 # (uncertain)
+Guinardia 149111
+Gymnodinium 109475
+Gymnodinium 109475
+Gymnodinium 109475
+Gymnodinium 109475
+Gymnodinium 109475
+Gymnodinium 109475
+Gymnodinium 109475
+Gymnodinium 109475
+Gymnodinium 109475
+Gyrodinium 109476
+Gyrodinium 109476
+Gyrodinium 109476
+Gyrodinium 109476
+#
+# H
+#
+Eucampia 149130
+Eucampia 149130
+# Hemiaulus 605114 #( accepted 149130) Eucampia
+Heterocapsa 109540
+#
+# I
+#
+#
+# J
+#
+#
+# K
+#
+Karenia brevis 233015
+Kofoidinium 109499
+#
+# L
+#
+Appendicularia 146421
+# Larvacean 17446 # (accepted Appendicularia) 146421 class
+Lauderia 149134
+Lauderia 149134
+Leptocylindrus danicus 149106
+# Leptocylindricus danicus 149106 # misspelled Leptocylindrus danicus (uncertain) a different person's 962746
+Leptocylindrus 149038
+Leptocylindrus 149038
+# Leptocylindricus 149038 # misspelled Leptocylindrus
+Licmophora 149342
+Lingulodinium 231799
+Lingulodinium polyedra 233592
+Lingulodinium polyedra 233592
+Lingulodinium 231799
+# Lingulodinium polyedrum 233592 # misspelling of above
+Lioloma 292726
+Lithodesmium 149321
+Lithodesmium 149321
+#
+# M
+#
+Melosira 149042
+Melosira 149042
+Minuscula bipes 109585
+Mesodinium 179320
+# Myrionecta 292895 # (accepted 179320) Mesodinium
+#
+# N
+#
+Alpheaus 106978
+Alpheaus 106978
+# Naupulis 588121 # (accepted 106978) Alpheus (genus)
+# Naupulii 588121 # plural of above
+Navicula 149142 # Genus
+Navicula 149142
+Nematodinium 109490
+# Nematodinoium 109490 # misspelled Nematodinium? Genus
+Nitzschia 119270 # Baer 1826, 149045 Hassall 1845
+Noctiluca scintillans 109921
+Noctiluca 109500 # had misspelled Notiluca
+#
+# O
+#
+oblong NaN
+Odontella 148963
+Odontella 148963
+Other diatoms NaN
+Other dinoflagellates NaN
+Ovoid NaN
+Oxyphysis 109563 # (accpeted 109466) Phalacroma
+Oxytoxum 109528
+#
+# P
+#
+P.australis 958754 # (uncertain)
+P.multiseries 960228 # (uncertain)
+Pale green NaN
+Paralia 149054
+Paralia sulcata 149055
+Paralia 149054
+Phaeocystis 115088
+Phalacroma rotundatum 156505
+Phalacroma rotundatum 156505
+# Phalachroma rotundatum 156505 # misspelled Phalacroma rotundatum
+Plagiogramma 149314
+Pleurosigma 149181
+Pleurosigma 149181
+Planktoniella 148979
+Polychaeta 883
+# Polychaete 883 # misspelled Polychaeta class
+Polykrikos 109485
+Proboscia 149167
+Proboscia 149167
+Prorocentrum 109566
+Prorocentrum lima 110301
+Prorocentrum gracile 110300
+Prorocentrum micans 110303
+Prorocentrum reticulatum 232323
+Prorocentrum 109566
+Protoceratium renticulatum 110321
+Protoperidinium 109553 #Bergh 1882 ,370410 (Testeria)
+Protoperidinium conicum 110213
+Protoperidinium depressum 110217
+Protoperidinium divergens 110219
+Protoperidinium excentricum 110220
+Protoperidinium leonis 110229
+Protoperidinium oceanicum 110240
+Protoperidinium steinii 110257
+Protoperidinium 109553
+Pseudo-nitzschia 149151
+Pseudo-nitzschia 149151
+Pseudoguinardia recta 573543 # uncertain
+Pseudo-nitzschia delicatissima 149153
+Pseudo-nitzschia delicatissima 149153
+Pseudo-nitzschia delicatissima 149153
+Pseudo-nitzschia seriata 149152
+Pseudo-nitzschia seriata 149152
+Pseudo-nitzschia seriata 149152
+Pyrocystis Lunula 164053
+Pyrophacus 109555
+#
+# Q
+#
+#
+# R
+#
+Rhaphoneis 149065
+Rhizosolenia 707645 # C.G. Ehrenberg 1843, 149069 accepted 1858 T. Brightwell
+Rhizosolenia 707645
+#
+# S
+#
+Scrippsiella 109545
+Scrippsiella 109545
+Skeletonema 149073
+Skeletonema 149073
+Sponge spicules NaN
+Stephanopyxis 149630
+Stephanopyxis 149630
+Striatella 149176 # there is another not accepted
+#
+# T
+#
+Thalassionema 149092
+# Thalssionema 149092  # misspelling
+Thalassionema 149092
+Thalassionema  149092 # Grunow 1902, other one Ward 1933 873775
+Thalassiosira 148912
+# Thalssiosira 148912 # misspelling
+Thalassiosira 148912
+Thalassiosira 148912
+Thalassiosira 148912
+Thalassiothrix 150781
+Thalassiothrix 150781
+Tintinnina 732976
+# Tintinnid 425497 # (accepted 732976) Tintinnina suborder
+Tintinnina 732976
+Torodinium 109479
+Tropidoneis 149518
+# U
+ulvaceae 143794
+# ulvacean 143794 # misspelling of ulvaceae family
+# V
+# W
+Warnowia 109491
+# Y
+# Z
