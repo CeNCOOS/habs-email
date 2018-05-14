@@ -3,6 +3,11 @@ import time
 import numpy as np
 import pdb
 def HABdate_to_ordinal(mydates,station):
+    """ This converts a HAB date from an e-mail message to an
+    ordinal number.  These numbers can be used for plotting and comparison.
+    Input is the date from the e-mail and the pier name
+    Output is the ordinal date.
+    """
     # dates are strings and may even have errors.
     # dates may have year first or last so need to figure out what type of
     # date structure it is...
@@ -59,6 +64,7 @@ def HABdate_to_ordinal(mydates,station):
             # okay we have the last one as a day
             #day=int(piece[2])
         try:
+            # a special case for Stearns wharf...
             if station=='Stearns':
                 if mmonth==2:
                     if mday==5:
@@ -66,6 +72,7 @@ def HABdate_to_ordinal(mydates,station):
                             myear=2018
             theord=datetime.date(year=myear,month=mmonth,day=mday).toordinal()
         except:
+            # break because we have problem not encountered before so we need to see what it is.
             pdb.set_trace()
         orddates.append(theord)
     return orddates
