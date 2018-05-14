@@ -17,3 +17,5 @@ An ancillary file plankton_names.txt is a list of names that have been encounter
 The python regular expression module is used extensively to find the index of the data in the e-mail payloads.
 <p>
 A pickle file of the dataframes is generated for use by a NetCDF writer.  The NetCDF writer was created to try and meet Darwin Core and OBIS standards (though it is probably missing a few things at the moment).
+<p>
+writehab.py is code to start to write data as Darwin Core/OBIS data.  This code uses pyworms to load some data.
