@@ -257,7 +257,7 @@ for i in cs:
     eventDate.long_name='eventDate'
     eventDate.standard_name='eventDate'
     eventDate[:]=HAB_station[stations[i]]['date'].as_matrix()
-
+    # need to change this to decimalLongitude
     longitude=newnc.createVariable('longitude','f8',('station',))
     longitude.units='degrees_east'
     longitude.long_name='longitude'
@@ -268,7 +268,7 @@ for i in cs:
     longitude.ioos_category='Location'
     longitude.reference='WGS84'
     longitude.coordinate_reference_frame='urn:crs:EPSG::4326'
-
+    # need to change this to decimalLatitude
     latitude=newnc.createVariable('latitude','f8',('station',))
     latitude.units='degrees_north'
     latitude.long_name='latitude'
