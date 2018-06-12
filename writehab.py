@@ -360,6 +360,7 @@ for i in cs:
                         myvar.occurrenceID='urn:catalog:'+institutioncode[i]+':plankton:'+speciesid[isp]
                         myvar.basisOfRecord='HumanObservation'
                         myvar.vernacularname=thekeys[k]
+                        myvar.nameAccordintToID='itis'
                     myvar.long_name=thekeys[k]
                     myvar.standard_name=thekeys[k]
                     myvar.coordinate='time'
