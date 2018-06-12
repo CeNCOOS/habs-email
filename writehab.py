@@ -383,6 +383,7 @@ for i in cs:
     # WoRMS (World Register of Marine Species) names must match to this
     # Darwin Core
     # newnc.vernacularname (aka common name)
+    # newnc.recordedBy
     # newnc.kingdom
     # newnc.taxonRank
     # newnc.taxonRemarks
