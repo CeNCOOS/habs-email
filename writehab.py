@@ -348,6 +348,7 @@ for i in cs:
                     else:
                         isp=content.index(thekeys[k])
                         myvar.scientificNameID=speciesid[isp]
+                        myvar.taxonID=speciesid[isp]
                         if speciesid[isp] > 0:
                             atmp=pwm.aphiaRecordByAphiaID(speciesid[isp])
                             myvar.lsid=atmp['lsid']
