@@ -358,6 +358,7 @@ for i in cs:
                         myvar.decimalLatitude=mylatitude[0]
                         myvar.occurrenceID='urn:catalog:'+institutioncode[i]+':plankton:'+speciesid[isp]
                         myvar.basisOfRecord='HumanObservation'
+                        myvar.vernacularname=thekeys[k]
                     myvar.long_name=thekeys[k]
                     myvar.standard_name=thekeys[k]
                     myvar.coordinate='time'
