@@ -382,6 +382,7 @@ for i in cs:
     # newnc.occurrenceID # examples-> urn:catalog:FMNH:Mammal:145732 urn:Isid:nhm.ku.edu:Herps:32
     # WoRMS (World Register of Marine Species) names must match to this
     # Darwin Core
+    # newnc.vernacularname (aka common name)
     # newnc.kingdom
     # newnc.taxonRank
     # newnc.taxonRemarks
